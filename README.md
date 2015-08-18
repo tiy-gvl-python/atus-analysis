@@ -1,3 +1,5 @@
+After manually creating and analyzing graphs based of the data, I created a program to let me clean and format the data easily and then automatically graph it.
+
 # American Time Use Analysis
 
 ## Description
