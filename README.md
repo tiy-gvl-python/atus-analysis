@@ -2,27 +2,9 @@
 
 ## Description
 
-Use the U.S. Department of Labor's data on Americans' time use for research and analysis.
+Uses Pandas and Matplotlib to analyze the U.S. Department of Labor's data on Americans' Time Use Survey.
 
-## Objectives
-
-### Learning Objectives
-
-After completing this assignment, you should understand:
-
-* How to use public data for analysis
-* How to translate data from CSVs to relational databases
-* How to publish your own data analysis as a notebook
-
-### Performance Objectives
-
-After completing this assignment, you should be able to:
-
-* Use pandas to parse and analyze data
-* Use matplotlib to chart data
-* Clean data
-
-## Details
+## Assignment Details
 
 ### Deliverables
 
